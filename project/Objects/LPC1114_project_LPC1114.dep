@@ -1,0 +1,69 @@
+Dependencies for Project 'LPC1114_project', Target 'LPC1114': (DO NOT MODIFY !)
+F (.\user\main.c)(0x593D4A99)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I ..\adc -I ..\delay -I ..\key -I ..\uart -I ..\1602 -I ..\MF52-I F:\daer\danpianji\LPC1114温度计\LPC1114温度计\project\RTE-I F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-I F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="520" -D_RTE_-o .\objects\main.o --omf_browse .\objects\main.crf --depend .\objects\main.d)
+I (F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\lpc11xx.h)(0x4FF4FDF8)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm0.h)(0x57D7BCDA)
+I (F:\keil\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D7BCDA)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EB0E6C)
+I (F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+I (..\uart\uart.h)(0x593A85F7)
+I (..\delay\delay.h)(0x593A810C)
+I (..\1602\1602.h)(0x593A8F95)
+I (..\adc\ADC.h)(0x593A8565)
+I (..\key\key.h)(0x593A80AE)
+I (..\MF52\MF52.h)(0x593A8995)
+I (F:\keil\ARM\ARMCC\include\stdio.h)(0x56FE42DE)
+I (F:\keil\ARM\ARMCC\include\string.h)(0x56FE42DE)
+F (..\1602\1602.c)(0x593A8EEB)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I ..\adc -I ..\delay -I ..\key -I ..\uart -I ..\1602 -I ..\MF52-I F:\daer\danpianji\LPC1114温度计\LPC1114温度计\project\RTE-I F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-I F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="520" -D_RTE_-o .\objects\1602.o --omf_browse .\objects\1602.crf --depend .\objects\1602.d)
+I (..\1602\1602.h)(0x593A8F95)
+I (F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm0.h)(0x57D7BCDA)
+I (F:\keil\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D7BCDA)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EB0E6C)
+I (F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+I (F:\keil\ARM\ARMCC\include\string.h)(0x56FE42DE)
+F (..\adc\adc.c)(0x593D5649)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I ..\adc -I ..\delay -I ..\key -I ..\uart -I ..\1602 -I ..\MF52-I F:\daer\danpianji\LPC1114温度计\LPC1114温度计\project\RTE-I F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-I F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="520" -D_RTE_-o .\objects\adc.o --omf_browse .\objects\adc.crf --depend .\objects\adc.d)
+I (..\adc\adc.h)(0x593A8565)
+I (F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm0.h)(0x57D7BCDA)
+I (F:\keil\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D7BCDA)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EB0E6C)
+I (F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+F (..\delay\delay.c)(0x593A8120)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I ..\adc -I ..\delay -I ..\key -I ..\uart -I ..\1602 -I ..\MF52-I F:\daer\danpianji\LPC1114温度计\LPC1114温度计\project\RTE-I F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-I F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="520" -D_RTE_-o .\objects\delay.o --omf_browse .\objects\delay.crf --depend .\objects\delay.d)
+I (F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm0.h)(0x57D7BCDA)
+I (F:\keil\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D7BCDA)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EB0E6C)
+I (F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+I (..\delay\delay.h)(0x593A810C)
+F (..\uart\uart.c)(0x593A9B92)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I ..\adc -I ..\delay -I ..\key -I ..\uart -I ..\1602 -I ..\MF52-I F:\daer\danpianji\LPC1114温度计\LPC1114温度计\project\RTE-I F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-I F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="520" -D_RTE_-o .\objects\uart.o --omf_browse .\objects\uart.crf --depend .\objects\uart.d)
+I (F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm0.h)(0x57D7BCDA)
+I (F:\keil\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D7BCDA)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EB0E6C)
+I (F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+I (..\uart\uart.h)(0x593A85F7)
+F (..\MF52\MF52.c)(0x593D582E)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I ..\adc -I ..\delay -I ..\key -I ..\uart -I ..\1602 -I ..\MF52-I F:\daer\danpianji\LPC1114温度计\LPC1114温度计\project\RTE-I F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-I F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="520" -D_RTE_-o .\objects\mf52.o --omf_browse .\objects\mf52.crf --depend .\objects\mf52.d)
+I (F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm0.h)(0x57D7BCDA)
+I (F:\keil\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D7BCDA)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EB0E6C)
+I (F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
+I (..\uart\uart.h)(0x593A85F7)
+I (..\delay\delay.h)(0x593A810C)
+I (..\adc\ADC.h)(0x593A8565)
+I (..\MF52\MF52.h)(0x593A8995)
+I (F:\keil\ARM\ARMCC\include\stdio.h)(0x56FE42DE)
+F (RTE\Device\LPC1114FBD48_301\startup_LPC11xx.s)(0x4CF35218)(--cpu Cortex-M0 -g --apcs=interwork -I F:\daer\danpianji\LPC1114温度计\LPC1114温度计\project\RTE-I F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-I F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx--pd "__UVISION_VERSION SETA 520" --pd "_RTE_ SETA 1"--list .\listings\startup_lpc11xx.lst --xref -o .\objects\startup_lpc11xx.o --depend .\objects\startup_lpc11xx.d)
+F (RTE\Device\LPC1114FBD48_301\system_LPC11xx.c)(0x4CF35218)(-c --cpu Cortex-M0 -g -O0 --apcs=interwork --split_sections -I ..\adc -I ..\delay -I ..\key -I ..\uart -I ..\1602 -I ..\MF52-I F:\daer\danpianji\LPC1114温度计\LPC1114温度计\project\RTE-I F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include-I F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx-D__UVISION_VERSION="520" -D_RTE_-o .\objects\system_lpc11xx.o --omf_browse .\objects\system_lpc11xx.crf --depend .\objects\system_lpc11xx.d)
+I (F:\keil\ARM\ARMCC\include\stdint.h)(0x56FE42DE)
+I (F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\LPC11xx.h)(0x4FF4FDF8)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm0.h)(0x57D7BCDA)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h)(0x57D7BCDA)
+I (F:\keil\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h)(0x57EB0E6C)
+I (F:\keil\ARM\PACK\Keil\LPC1100_DFP\1.4.0\Device\Include\LPC11xx\system_LPC11xx.h)(0x4CF35218)
